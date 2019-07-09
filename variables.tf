@@ -1,0 +1,13 @@
+variable "region" {}
+variable "gcp_project" {}
+variable "credentials" {}
+variable "name" {}
+variable "subnet_cidr1" {}
+variable "subnet_cidr2" {}
+variable "cluster1" {}
+variable "cluster2" {}
+variable "masteruser" {}
+variable "masterpass" {}
+variable "general_purpose_machine_type" {}
+variable "general_purpose_min_node_count" {}
+variable "general_purpose_max_node_count" {}
