@@ -1,0 +1,60 @@
+/home/mahimamehrish1983/gcp_gke3/
++-- credentials.json
++-- file.txt
++-- firewall
+¦   +-- main.tf
+¦   +-- variables.tf
++-- graph.svg
++-- main.tf
++-- nginx-deployment-service.yaml
++-- outputs.tf
++-- subnet
+¦   +-- main.tf
+¦   +-- outputs.tf
+¦   +-- variables.tf
++-- terraform
+¦   +-- credentials.json
+¦   +-- firewall
+¦   ¦   +-- main.tf
+¦   ¦   +-- variables.tf
+¦   +-- main.tf
+¦   +-- nginx-deployment-service.yaml
+¦   +-- outputs.tf
+¦   +-- subnet
+¦   ¦   +-- main.tf
+¦   ¦   +-- outputs.tf
+¦   ¦   +-- variables.tf
+¦   +-- terraform
+¦   +-- terraform.tfstate
+¦   +-- terraform.tfstate.backup
+¦   +-- terraform.tfvars
+¦   +-- test.yaml
+¦   +-- firewall
+¦   ¦   +-- main.tf
+¦   ¦   +-- variables.tf
+¦   +-- main.tf
+¦   +-- nginx-deployment-service.yaml
+¦   +-- outputs.tf
+¦   +-- subnet
+¦   ¦   +-- main.tf
+¦   ¦   +-- outputs.tf
+¦   ¦   +-- variables.tf
+¦   +-- terraform
+¦   +-- terraform.tfstate
+¦   +-- terraform.tfstate.backup
+¦   +-- terraform.tfvars
+¦   +-- test.yaml
+¦   +-- variables.tf
+¦   +-- vpc
+¦       +-- main.tf
+¦       +-- outputs.tf
+¦       +-- variables.tf
++-- terraform.tfstate
++-- terraform.tfstate.backup
++-- terraform.tfvars
++-- test.yaml
++-- variables.tf
++-- vpc
+    +-- main.tf
+    +-- outputs.tf
+    +-- variables.tf
